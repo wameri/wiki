@@ -1,0 +1,5 @@
+[[00_inbox]]
+[[01_projects]]
+[[02_areas]]
+[[03_resources]]
+[[04_archives]]
