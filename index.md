@@ -1,0 +1,5 @@
+[[00_inbox/00_inbox.md]]
+[[01_projects/01_projects.md]]
+[[02_areas/02_areas.md]]
+[[03_resources/03_resources.md]]
+[[04_archives/04_archives.md]]
